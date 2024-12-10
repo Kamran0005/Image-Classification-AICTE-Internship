@@ -1,10 +1,3 @@
 # P1-Image-Classification-by-Machine-Learning-AICTE-Internship
 
-I have done this project to classify images by using CNNmodel and Pre Trained Mobile Net model. I created the streamlit app for the same.
-
-
-## How to rum the code
-
-
-
-### Ack
+This project demonstrates the implementation of a Machine Learning model for image classification. The aim is to classify images into predefined categories using state-of-the-art techniques in deep learning. The project is modular, extensible, and designed to help researchers and developers understand and apply ML models to real-world datasets.
